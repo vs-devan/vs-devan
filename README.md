@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devanarayanan V S</h1>
-<h3 align="center">Sophomore at IIT Madras in Metallurgical and Materials Engineering with experience in Data Analysis and Web Development.</h3>
+<h3 align="center">Final Year at IIT Madras in Metallurgical and Materials Engineering with experience in Agentic AI and Foundation Models.</h3>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/devanarayanan-v-s/) 
